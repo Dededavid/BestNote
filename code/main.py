@@ -53,5 +53,6 @@ func.algoritmorecomendacion
 #extrayendo el amigo más afin:
 func.amigoafin
 
-#creo un set de canciones del amigo más afín, evitando poner dos canciones repetidas en listas diferentes
+#creo un set de canciones del amigo más afín, evitando poner dos canciones repetidas en listas diferentes. 
+#genero un archivo .txt con las canciones más interesantes para el usuario
 func.set_canciones

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import spotipy
 import spotipy.util as util
 from diccionario import dicc
